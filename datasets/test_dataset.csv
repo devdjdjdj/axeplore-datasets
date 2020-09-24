@@ -2,6 +2,8 @@ id_col,num_col_1,num_col 2,text_col_1,text_col 2,bool_col_1
 0,1,1.0,Some,Some,0
 1,2,2.0,Little,Little more texting,1
 2,1,1.0,Some,Some more text fill,0
+2,1,1.0,Some,Some more text fill,0
 3,2,,,Little more textin,1
+4,1,2.0,Some text,Some more text fill,0
 4,1,2.0,Some text,Some more text fill,0
 5,2,3.0,Little,Little more texting,1
